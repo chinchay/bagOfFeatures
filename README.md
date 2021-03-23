@@ -1,1 +1,3 @@
-# bagOfFeatures
+# bag of features
+
+Bag of features for structural search
